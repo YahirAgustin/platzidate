@@ -1,0 +1,16 @@
+{
+  "name": "platzidate",
+  "version": "1.0.0",
+  "description": "Una utilidad para manejar fecha en formato timestamp y long time.",
+  "main": "src/index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "date",
+    "nodejs"
+  ],
+  "author": "Yahir Soto",
+  "license": "MIT",
+  "type": "commonjs"
+}
